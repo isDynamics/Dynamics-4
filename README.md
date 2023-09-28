@@ -1,4 +1,4 @@
-![Logo](https://raw.githubusercontent.com/isdynamics/dynamics4/master/bin/logo.png)
+![Logo](https://raw.githubusercontent.com/isdynamics/dynamics4/main/bin/logo.png)
 
 Welcome to the Dynamics 4 GitHub page!
 
