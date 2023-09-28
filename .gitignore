@@ -1,0 +1,4 @@
+venv/*
+Exercises/.ipynb_checkpoints/*
+.ipynb_checkpoints/*
+Demonstrations/.ipynb_checkpoints/*
